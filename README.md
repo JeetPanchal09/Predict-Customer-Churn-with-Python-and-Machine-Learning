@@ -2,7 +2,8 @@
 
 
 
-Churn in a business setting refers to losing an acquired, potentially profitable customer.
+ > Churn in a business setting refers to losing an acquired, potentially profitable customer.
+
 
 
 * Acquiring a new customer is always more expensive than retaining an existing one. Hence, not letting them churn is the key to a sustained revenue stream.
@@ -13,7 +14,7 @@ Churn in a business setting refers to losing an acquired, potentially profitable
 
 
 
-Content
+Content :
 
 
 In our dataset each row represents a customer, each column contains customer’s attributes described on the column  Metadata.
